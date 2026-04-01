@@ -17,7 +17,7 @@ The quantum algorithm achieves this strict linear query reduction using superpos
 ```
 ├── README.md                         ← You are here
 ├── BV_Complete_Project.ipynb         ← All code, tests, and analysis in one notebook
-└── BV_Presentation.pptx              ← PowerPoint slide deck (self-contained)
+
 ```
 
 ## Notebook Contents
